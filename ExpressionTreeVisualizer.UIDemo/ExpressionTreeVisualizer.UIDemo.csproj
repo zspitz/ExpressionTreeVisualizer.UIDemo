@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="ExpressionTreeTestObjects" Version="1.0.21" />
     <PackageReference Include="ExpressionTreeToString" Version="3.4.63" />
-    <PackageReference Include="ExpressionTreeVisualizer.UI" Version="1.7.111" />
+    <PackageReference Include="ExpressionTreeVisualizer.UI" Version="1.7.114" />
     <PackageReference Include="ZSpitz.Util" Version="0.1.105" />
     <PackageReference Include="ZSpitz.Util.Wpf" Version="0.1.105" />
   </ItemGroup>
